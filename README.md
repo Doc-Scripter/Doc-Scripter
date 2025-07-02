@@ -1,5 +1,51 @@
-# 💫 About Me:
-🔭 I’m currently <br><br>   Contributing to open-source projects and hands-on software development at Zone01, Kisumu, focusing on designing, implementing, and optimizing applications.<br><br>👯 I’m looking to collaborate on<br><br>   Projects that leverage Golang, JavaScript, and related technologies to build impactful software solutions.  I'm particularly drawn to projects emphasizing clean, maintainable code and innovative, "out of the box" approaches.<br><br>🤝 I’m open to ideas on <br><br>*   Deepening my expertise in cloud-native technologies, AI, Data Science, DevOps practices, and advanced applications of NiceGUI and Fast API.<br><br>🌱 I’m currently in pusuit of<br><br>   Exploring advanced software architecture patterns and best practices for building scalable and resilient systems.<br><br>💬 Ask me about<br><br>*   Fullstack development, Golang, Python , AI, JavaScript, REST APIs, and my experience with various projects. I'm always happy to share ideas and collaborate on exciting new ventures.<br><br>⚡ Fun fact<br><br>   I thrive on teamwork and the exchange of ideas. I'm fascinated by simple yet effective techniques and unconventional, yet viable solutions.<br><br>
+# Hi there, I'm Clifford 👋
+
+## 👨‍💻 About Me  
+I’m a **Software Engineer** and **Project Manager** contributing to open-source and real-world development at **Zone01 Kisumu**.  
+My stack revolves around **Rust**, **Golang**, **JavaScript**, and **Python**, with growing experience in **AI/ML**, **cloud-native systems**, and clean software architecture.
+
+---
+
+## 🚀 Current Focus  
+- Backend & fullstack development  
+- Building scalable, maintainable systems  
+- AI, data science, and real-time applications  
+
+---
+
+## 🤝 Open to Collaborate On  
+- Projects using **Rust**, **Go**, **Python**, or **JavaScript**  
+- AI, data-driven systems, and modern DevOps practices  
+- Clean, testable code and innovative software ideas
+
+---
+
+## 📚 Learning Goals  
+- Advanced system architecture & design patterns  
+- CI/CD pipelines, Kubernetes, and cloud infrastructure  
+- Production-ready ML and data engineering workflows
+
+---
+
+## 💬 Let’s Talk About  
+- Networking & collaboration
+- Fullstack software engineering  
+- Data Science & AI/ML  
+- Open-source collaboration and technical mentoring
+
+---
+
+## ✨ A Little Extra  
+I thrive in collaborative, idea-driven environments. I'm passionate about solving problems with elegant solutions—especially when they challenge the conventional.  
+> "Innovation is born where simplicity meets function."
+
+---
+
+## 🔗 Connect with Me  
+- 💼 GitHub: [github.com/Doc-Scripter](https://github.com/Doc-Scripter)  
+- 🌐 LinkedIn: [linkedin.com/in/clifford-potter](https://www.linkedin.com/in/clifford-potter/)
+
+
 
 
 ## 🌐 Socials:
