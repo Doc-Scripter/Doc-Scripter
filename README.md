@@ -15,7 +15,7 @@ My stack revolves around **Rust**, **Golang**, **JavaScript**, and **Python**, w
 
 ## 🤝 Open to Collaborate On  
 - Projects using **Rust**, **Go**, **Python**, or **JavaScript**  
-- AI, data-driven systems, and modern DevOps practices  
+- AI, ML data-driven systems   
 - Clean, testable code and innovative software ideas
 
 ---
