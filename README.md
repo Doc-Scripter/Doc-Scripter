@@ -41,11 +41,6 @@ I thrive in collaborative, idea-driven environments. I'm passionate about solvin
 
 ---
 
-## 🔗 Connect with Me  
-- 💼 GitHub: [github.com/Doc-Scripter](https://github.com/Doc-Scripter)  
-- 🌐 LinkedIn: [linkedin.com/in/clifford-potter](https://www.linkedin.com/in/clifford-potter/)
-
-
 
 
 ## 🌐 Socials:
