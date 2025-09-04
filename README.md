@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me  
 I’m a **Software Engineer** and **Project Manager** contributing to open-source and real-world development at **Zone01 Kisumu**.  
-My stack revolves around **Rust**, **Golang**, **JavaScript**, and **Python**, with growing experience in **AI/ML**, **cloud-native systems**, and clean software architecture.
+My stack revolves around **Rust**, **Golang**, **JavaScript**, and **Python**, with growing experience in **AI/ML**, **NLP** , **Data Science** **cloud-native systems**, and clean software architecture.
 
 ---
 
@@ -15,7 +15,7 @@ My stack revolves around **Rust**, **Golang**, **JavaScript**, and **Python**, w
 
 ## 🤝 Open to Collaborate On  
 - Projects using **Rust**, **Go**, **Python**, or **JavaScript**  
-- AI, ML data-driven systems   
+- AI, ML and  data-driven systems   
 - Clean, testable code and innovative software ideas
 
 ---
