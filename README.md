@@ -19,7 +19,10 @@ My stack revolves around **Rust**, **Golang**, **JavaScript**, and **Python**, w
 - Clean, testable code and innovative software ideas
 
 ---
+## 📈 Data Science Portfolio & Learning Progress
 
+I’m actively advancing my data science skills through hands-on projects and continuous learning on [DataCamp](https://www.datacamp.com/portfolio/CliffordOtieno)
+---
 ## 📚 Learning Goals  
 - Advanced system architecture & design patterns  
 - CI/CD pipelines, Kubernetes, and cloud infrastructure  
