@@ -41,7 +41,8 @@ I thrive in collaborative, idea-driven environments. I'm passionate about solvin
 
 ---
 
-
+## Featured Projects
+- [Wakati](wakati-ai.vercel.app) - Time Management & Productivity
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clifford-potter/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clifford242526@gmail.com) 
