@@ -13,17 +13,17 @@ My stack revolves around **Rust**, **Golang**, **JavaScript**, and **Python**, w
 
 ---
 
-## 🤝 Open to Collaborate On  
+## ![Handshake Icon](https://img.icons8.com/color/32/handshake.png) Open to Collaborate On  
 - Projects using **Rust**, **Go**, **Python**, or **JavaScript**  
 - AI, ML and  data-driven systems   
 - Clean, testable code and innovative software ideas
 
 ---
-## 📈 Data Science Portfolio & Learning Progress
+## ![Data Science Icon](https://img.icons8.com/color/48/000000/data-configuration.png) Data Science Portfolio & Learning Progress
 
 - I’m actively advancing my data science skills through hands-on projects and continuous learning on [DataCamp](https://www.datacamp.com/portfolio/CliffordOtieno)
 ---
-## 📚 Learning Goals  
+## ![Book Icon](https://img.icons8.com/color/32/book.png) Learning Goals  
 - Advanced system architecture & design patterns  
 - CI/CD pipelines, Kubernetes, and cloud infrastructure  
 - Production-ready ML and data engineering workflows
@@ -38,16 +38,16 @@ My stack revolves around **Rust**, **Golang**, **JavaScript**, and **Python**, w
 
 ---
 
-## ✨ A Little Extra  
+## ![Sparkle Icon](https://img.icons8.com/color/32/sparkling.png) A Little Extra  
 I thrive in collaborative, idea-driven environments. I'm passionate about solving problems with elegant solutions—especially when they challenge the conventional.  
 > "Innovation is born where simplicity meets function."
 
 ---
 
-## Featured Projects
+## ![Project Icon](https://img.icons8.com/color/32/project.png) Featured Projects
 - [Wakati](https://wakati-ai.vercel.app) - Time Management & Productivity
 
-## 🌐 Socials:
+## ![Globe Icon](https://img.icons8.com/color/32/internet.png) Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clifford-potter/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clifford242526@gmail.com) 
 
 # 💻 Tech Stack:
