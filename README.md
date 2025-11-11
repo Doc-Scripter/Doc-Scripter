@@ -9,7 +9,7 @@ My stack revolves around **Rust**, **Golang**, **JavaScript**, and **Python**, w
 ## ![Rocket Icon](https://img.icons8.com/color/32/rocket--v1.png) Current Focus  
 - Backend & fullstack development  
 - Building scalable, maintainable systems  
-- AI, data science, and real-time applications  
+- AI/ML, data science, and real-time applications  
 
 ---
 
