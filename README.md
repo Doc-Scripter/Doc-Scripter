@@ -1,6 +1,6 @@
 # Hi there, I'm Clifford 👋
 
- About Me  
+##  About Me  
 I’m a **Software Engineer** and **Project Manager** contributing to open-source and real-world development at **Zone01 Kisumu**.  
 My stack revolves around **Rust**, **Golang**, **JavaScript**, and **Python**, with growing experience in **AI/ML**, **NLP** , **Data Science** **cloud-native systems**, and clean software architecture.
 
